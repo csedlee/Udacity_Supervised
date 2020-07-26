@@ -1,7 +1,7 @@
 # Udacity_Supervised
 
 4. copy the binder link 
->>> https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=studentMain_001.ipynb
+>>> https://mybinder.org/v2/gh/csedlee/udacity_samples/master?.ipynb
 
 https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=prep_terrain_data.ipynb
 
