@@ -1,0 +1,19 @@
+wget==3.2
+pandas==0.25.1
+numpy==1.17.2
+geopy==1.20.0
+altair==3.2.0
+vega==2.6.0
+vega_datasets==0.7.0
+watermark==2.0.1
+python-dateutil==2.8.1    # via matplotlib, pandas
+matplotlib==3.2.1
+scikit-learn==0.17.1
+scipy==1.4.1              # via seaborn
+
+ation instructions are available on the scikit-learn website: http://scikit-learn.org/stable/install.html
+
+  ----------------------------------------
+  ERROR: Failed building wheel for scikit-learn
+  Running setup.py clean for scikit-learn
+  Building wheel for toolz (setup.py): started
