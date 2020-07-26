@@ -1,16 +1,9 @@
 # Udacity_Supervised
 
-4. copy the binder link 
->>> https://mybinder.org/v2/gh/csedlee/udacity_samples/master?.ipynb
-
-https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=prep_terrain_data.ipynb
-
-https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=ClassifyNB.ipynb
-
-https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=studentMain.ipynb
-
-https://mybinder.org/v2/gh/csedlee/udacity_samples/master?filepath=class_vis.ipynb
-
-# how to connect jupyter notebook to Github
-https://www.youtube.com/watch?v=owSGVOov9pQ
-
+# NBviewer
+  https://nbviewer.jupyter.org/
+  
+  https://github.com/csedlee/Udacity_Supervised/tree/Linear-Regression-in-scikit-learn
+  
+  
+  
