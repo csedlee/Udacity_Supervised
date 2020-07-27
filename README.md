@@ -1,42 +1,13 @@
 # Udacity_Supervised
 
-<HOW TO LAUNCH A BINDER>
-1. create requirements.txt
-
-wget==3.2
-
-pandas==0.25.1
-
-numpy==1.17.2
-
-geopy==1.20.0
-
-altair==3.2.0
-
-vega==2.6.0
-
-vega_datasets==0.7.0
-
-watermark==2.0.1
-
-2. add Jupyter notebook and requirements.txt to Github
-
- jupyter.org/try
- 
-3. build and launch the Binder repository
-
-    https://mybinder.org/
-    
-<> URL: https://github.com/csedlee/Udacity_Supervised
-    
-<> Git branch: Boston-house-prices-dataset
-    
-<> notebook file: quiz.ipynb 
-
-4. copy the binder link 
->>> https://mybinder.org/v2/gh/csedlee/Udacity_Supervised/Boston-house-prices-dataset?quiz.ipynb
+#1. NBviewer
+Ctl + Click:
+https://nbviewer.jupyter.org/
+Copy the link:
+https://github.com/csedlee/Udacity_Supervised/tree/Boston-house-prices-dataset
+#2. Press Execute button:
+https://hub-binder.mybinder.ovh/user/csedlee-udacity_supervised-935qfioi/tree
 
 
-# how to connect jupyter notebook to Github
-https://www.youtube.com/watch?v=owSGVOov9pQ
+
 
