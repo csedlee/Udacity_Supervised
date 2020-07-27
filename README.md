@@ -1,8 +1,11 @@
 # Udacity_Supervised
 
 #1. NBviewer 
+  
   Ctl + Click:  
   https://nbviewer.jupyter.org/
+  
+  Copy the link:
   
   https://github.com/csedlee/Udacity_Supervised/tree/Linear-Regression-in-scikit-learn
   
