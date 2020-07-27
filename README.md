@@ -5,7 +5,8 @@
   
   https://github.com/csedlee/Udacity_Supervised/tree/Linear-Regression-in-scikit-learn
   
-#2. Execute 
+#2. Press Execute button:
+
   https://hub-binder.mybinder.ovh/user/csedlee-udacity_supervised-935qfioi/tree
   
   
